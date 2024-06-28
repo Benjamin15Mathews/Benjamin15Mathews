@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Benjamin15Mathews
+- 👋 Hello, Im Ben
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Java, PostgreSQL, Springboot, REACT, UE5, C++
 - 📫 How to reach me benjamin15mathews@gmail.com
