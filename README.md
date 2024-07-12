@@ -42,7 +42,7 @@ Next Step
 - Complete UDEMY Ultimate Git Course 11hrs
 - Complete UDEMY AI System in UE6 and C++ 24hrs
 - Complete UDEMY Unreal engine 2D 12hrs
-- Complete GAMEDEV.TV How to get a game job 6.5hrs
+- Complete GAMEDEV.TV How to get a game job 6.5hrs ✅
 - Complete UDEMY Opengl 21.5
 - Make a Multiplayer Game in UE5 with AI
 - Apply for junior Programmer Positions
