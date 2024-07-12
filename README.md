@@ -22,6 +22,7 @@ Things I am Good At
 
 My Dream Job
 - Gameplay programmer at Epic Games
+- Java programmer
   
 Steps to reach Dream Job
 - Strong C++ skills and programing principles knowledge
@@ -32,6 +33,12 @@ Steps to reach Dream Job
 - Strong understanding of networked game principles and how they apply towards character movement
 - Engine tooling pipelines
 - Robust understanding of AI toolests used in AAA Systems
+- Strong html,css,js skills
+- Understanding of Oauth
+- Understanding of JWT
+- Understanding of Es5/6
+- Understaning of Selenium
+- Understanding of Mockito
   
 Next Step
 - Complete UDEMY C++ Unreal gamedev.tv 29.5hrs
@@ -43,6 +50,12 @@ Next Step
 - Complete UDEMY AI System in UE6 and C++ 24hrs
 - Complete UDEMY Unreal engine 2D 12hrs
 - Complete GAMEDEV.TV How to get a game job 6.5hrs ✅
+- Complete FREECODECAMP Responsive Web Design Certification
+- Complete FREECODECAMP Javascript Algorithms and Data Structures Certification
+- Complete FREECODECAMP Front End Development Libraries Certification
+- Complete FREECODECAMP Data Visualization Certificate
+- Complete FREECODECAMP Relational Dayabase Certificate
+- Complete FREECODECAMP Back end Development and APIs Certification
 - Complete UDEMY Opengl 21.5
 - Make a Multiplayer Game in UE5 with AI
 - Apply for junior Programmer Positions
